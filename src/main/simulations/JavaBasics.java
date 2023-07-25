@@ -1,3 +1,5 @@
+package simulations;
+
 public class JavaBasics {
     public static int addIntegers(int firstNumber, int secondNumber) {
         return firstNumber + secondNumber;
