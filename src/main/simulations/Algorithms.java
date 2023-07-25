@@ -1,3 +1,5 @@
+package simulations;
+
 public class Algorithms {
 
     public static double convertCelsiusToFahrenheit(double celsius) {
